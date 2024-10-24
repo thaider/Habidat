@@ -1,2 +1,2 @@
 # Habidat
-MediaWiki extension for habidat projects
+MediaWiki extension for habiTAT projects
